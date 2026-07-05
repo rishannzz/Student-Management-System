@@ -1,4 +1,4 @@
-#🎓 Student Management System
+#🎓 Student Management System br
 #A robust, modular Command Line Interface (CLI) application built with Python and MySQL. This system allows users to seamlessly perform #CRUD (Create, Read, Update, Delete) operations on student records, demonstrating core database integration and software architecture #principles.
 
 #✨ Features
